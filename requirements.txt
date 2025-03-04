@@ -1,0 +1,5 @@
+chainlit
+torch
+transformers
+unsloth
+Pillow
